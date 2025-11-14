@@ -1,0 +1,3 @@
+usr/lib/xorg/modules/drivers/etnadrm_gpu.so
+usr/lib/xorg/modules/drivers/thead_drv.so
+debian/10-gc620.conf usr/share/X11/xorg.conf.d/
